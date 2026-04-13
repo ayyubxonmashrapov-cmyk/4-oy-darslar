@@ -1,0 +1,37 @@
+[
+    {
+        "title": "O‘tkan kunlar",
+        "author": "Abdulla Qodiriy",
+        "year": 1926,
+        "genre": "Roman",
+        "copies": 5
+    },
+    {
+        "title": "Kecha va kunduz",
+        "author": "Cho‘lpon",
+        "year": 1936,
+        "genre": "Roman",
+        "copies": 3
+    },
+    {
+        "title": "Dunyoning ishlari",
+        "author": "O‘tkir Hoshimov",
+        "year": 1982,
+        "genre": "Hikoya",
+        "copies": 8
+    },
+    {
+        "title": "Ishonch",
+        "author": "Erkin Vohidov",
+        "year": 1975,
+        "genre": "She’r",
+        "copies": 6
+    },
+    {
+        "title": "Ikki eshik orasi",
+        "author": "Oybek",
+        "year": 1940,
+        "genre": "Roman",
+        "copies": 4
+    }
+]
