@@ -1,4 +1,4 @@
-from operator import add
+
 from PyQt5.QtWidgets import *
 
 import json
